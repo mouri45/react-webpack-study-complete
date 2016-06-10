@@ -1,5 +1,5 @@
 {
-  "name": "react-webpack-study-start",
+  "name": "react-webpack-study-complete",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mouri45/react-webpack-study-start.git"
+    "url": "git+https://github.com/mouri45/react-webpack-study-complete.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mouri45/react-webpack-study-start/issues"
+    "url": "https://github.com/mouri45/react-webpack-study-complete/issues"
   },
-  "homepage": "https://github.com/mouri45/react-webpack-study-start#readme",
+  "homepage": "https://github.com/mouri45/react-webpack-study-complete#readme",
   "devDependencies": {
     "babel-core": "^6.9.1",
     "babel-loader": "^6.2.4",
